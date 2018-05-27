@@ -1,0 +1,21 @@
+
+body {
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+* {
+    color: white
+}
+
+nav li {
+    display: inline-block;
+    margin: 12px
+}
+.art {
+    width: 800px;
+    height: 12px;
+    background-image: url(../website/images/art.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
